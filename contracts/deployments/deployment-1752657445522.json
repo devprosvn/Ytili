@@ -1,0 +1,23 @@
+{
+  "network": "ytili",
+  "chainId": 2752546100676000,
+  "deployer": "0xcca6F4EA7e82941535485C2363575404C3061CD2",
+  "timestamp": "2025-07-16T09:17:23.792Z",
+  "contracts": {
+    "YtiliToken": {
+      "address": "0xced157786AF1dA910F8B4dAbc1F8F96028249782",
+      "name": "Ytili Token",
+      "symbol": "YTILI",
+      "totalSupply": "100000000.0"
+    },
+    "DonationRegistry": {
+      "address": "0xB43d4E8D30c6198C0060Ad32d5Ce9Cf1d49fc334",
+      "totalDonations": 0
+    },
+    "TransparencyVerifier": {
+      "address": "0xBd6b063051F374D0D6838250CfBb0d817344ff35",
+      "donationRegistry": "0xB43d4E8D30c6198C0060Ad32d5Ce9Cf1d49fc334",
+      "totalVerifications": 0
+    }
+  }
+}
